@@ -2,19 +2,23 @@
 
 Howdy! is a Windows desktop app for managing Roblox accounts with premium license support.
 
-Download the latest version from the Releases section.
-
 ## Features
 
-- Windows desktop app
-- Roblox account manager
-- Premium/license key support
-- Portable ZIP release
-- Built with Nuitka
+* Multi-instance Roblox launching
+* Account grouping and organization
+* Custom layout management
+* Scheduled launch support
+* Auto rejoin support
+* Session status checking
+* Session recovery tools
+* Network profile support
+* Account setup helper
+* Portable Windows release
+* & more!
 
 ## Download
 
-Go to the Releases section and download the latest `Howdy-v1.0.0.zip`.
+Download the latest version from the Releases section.
 
 ## Notice
 
